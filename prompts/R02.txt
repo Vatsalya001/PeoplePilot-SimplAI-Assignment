@@ -1,0 +1,14 @@
+R02 — Short resume
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Evaluate this short resume as a general assessment.
+
+Candidate: Riya Sen. Built FastAPI APIs, designed PostgreSQL schemas, wrote pytest API tests and deployed services to AWS ECS. Used Docker and Redis. No additional employment or project details are supplied.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Evaluate immediately, explain limited context and outcomes, do not demand a longer resume before evaluating. Gaps and recommendations use not evidenced wording. Do not recommend gaining experience solely because details are omitted.
+Tool checks: Zero Send Email calls.
+Source: 

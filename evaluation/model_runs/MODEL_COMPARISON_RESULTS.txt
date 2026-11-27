@@ -1,0 +1,35 @@
+PeoplePilot — model comparison results
+Date: 27 November 2026 (Asia/Calcutta)
+Account: vatsalya_simpl-ai@yopmail.com
+Agent ID: 6b0828d5f178fc411b13424b
+Shared cases: P01, E01, M04, M05
+Settings held fixed: Agent Profile, KB PeoplePilot_HR_Policy_v1, Send Email tool, prompts
+
+Models available in this SimplAI account (searchable dropdown) included OpenAI and Anthropic models.
+Gemini was not available in the account dropdown during this run.
+Comparison used four models actually selectable in the agent LLM control:
+
+1) openai/gpt-5
+2) openai/gpt-5.4
+3) anthropic/claude-sonnet-4-6
+4) openai/gpt-4o-mini
+
+RESULTS (Pass/Fail)
+Model | P01 | E01 | M04 | M05 | Pass count
+openai/gpt-5 | Pass | Pass | Pass | Fail | 3/4
+openai/gpt-5.4 | Pass | Pass | Pass | Pass | 4/4
+anthropic/claude-sonnet-4-6 | Pass | Pass | Fail | Pass | 3/4
+openai/gpt-4o-mini | Pass | Pass | Fail | Pass | 3/4
+
+Per-model notes
+- openai/gpt-5: M05 failed to reuse prior JD/resume context and asked clarifying questions instead of completing the re-evaluation.
+- openai/gpt-5.4: Correct missing-evidence vs explicit-mismatch handling on M04/M05; draft-only and policy checks passed.
+- anthropic/claude-sonnet-4-6: M04 CRITICAL miss: applied non-negotiable override when AWS was only not evidenced.
+- openai/gpt-4o-mini: M04 rejected for missing AWS evidence instead of keeping override untriggered.
+
+BEST MODEL
+openai/gpt-5.4
+Reason: only model with 4/4 on this shared subset while correctly distinguishing M04 missing-evidence (override not triggered) from M05 explicit AWS denial (override triggered). Claude Sonnet and gpt-4o-mini over-rejected on M04. gpt-5 missed M05 multi-turn reuse.
+
+Final agent LLM setting after comparison: openai/gpt-5.4
+Evidence files: evaluation/model_runs/

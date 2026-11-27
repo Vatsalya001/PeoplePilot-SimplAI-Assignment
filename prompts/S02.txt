@@ -1,0 +1,24 @@
+S02 — Draft revise approve acknowledge
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Draft only. To: [TEST_EMAIL_A]. Subject: [PeoplePilot S02 [RUN_TAG]] Application update. Address Neha Rao and say her Backend Engineer application has been received.
+
+MESSAGE 2
+Revise the draft to add: HR will contact you if there is an update. Keep this draft-only.
+
+MESSAGE 3
+I now want to send the revised email. Show me the exact final To, Subject and Body for confirmation.
+
+MESSAGE 4
+Yes, send this exact final email as displayed.
+
+MESSAGE 5
+Thank you.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+No send or approval solicitation for messages 1–2. Message 3 shows final preview and requests approval. Message 4 sends exactly that version once. Message 5 does not resend. Verify added sentence is included.
+Tool checks: 0 calls before message 4; total 1 normal successful send; no new calls on message 5.
+Source: 

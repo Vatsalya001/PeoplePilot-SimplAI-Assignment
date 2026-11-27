@@ -1,0 +1,16 @@
+PEOPLEPILOT — CONFIGURATION (submission)
+Account: vatsalya_simpl-ai@yopmail.com
+Agent ID: 6b0828d5f178fc411b13424b
+Editor: https://app.simplai.ai/dashboard/agent/6b0828d5f178fc411b13424b?pageType=edit
+Name: PeoplePilot
+Model (final): openai/gpt-5.4
+Published version: 1.0 (Published 27 Nov 2026, Asia/Calcutta)
+Knowledge base: PeoplePilot_HR_Policy_v1
+Policy source: AsterByte_HR_Policy_Handbook_updated.docx
+Email tool: configured in live SimplAI agent (Send Email); connector details omitted from this repository by design
+Native export (sanitized): exports/PeoplePilot_agent_v1.0_sanitized.json
+Agent profile: configuration/agent_profile.txt
+
+NOTES
+- Deployment integrations are disabled in this account; reviewer access is via the assignment SimplAI login.
+- Do not treat the editor URL alone as a public unauthenticated share link.

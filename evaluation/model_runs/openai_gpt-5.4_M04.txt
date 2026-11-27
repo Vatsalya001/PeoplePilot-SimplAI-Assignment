@@ -1,0 +1,59 @@
+Candidate and Role Overview
+
+Candidate: Tara Das
+Evaluation type: JD-based evaluation
+Applicable JD:
+
+Must-haves: production Python API development; PostgreSQL schema and query experience; automated API tests; hands-on AWS deployment
+Nice-to-haves: Docker; Redis
+Non-negotiable requirement explicitly designated by hiring manager: hands-on AWS deployment
+
+Using the default JD weighting:
+
+4 must-haves share 80 points total → 20.00 each
+2 nice-to-haves share 20 points total → 10.00 each
+Matrix
+Requirement	Must-have/Nice-to-have	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20.00	“built and maintained production FastAPI APIs”	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20.00	“designed PostgreSQL schemas and optimized SQL”	Directly supported	1.0	20.00
+Automated API tests	Must-have	20.00	“wrote pytest API integration tests”	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have	20.00	The supplied resume says nothing about AWS	Not evidenced	0.0	0.00
+Docker	Nice-to-have	10.00	“built Docker images”	Directly supported	1.0	10.00
+Redis	Nice-to-have	10.00	“implemented Redis caching”	Directly supported	1.0	10.00
+Overall Fit Score
+
+20.00 + 20.00 + 20.00 + 0.00 + 10.00 + 10.00 = 80.00
+Final score: 80.0/100
+
+Must-Have Coverage
+Directly supported:
+production Python API development
+PostgreSQL schema and query experience
+automated API tests
+Partially supported: None
+Not evidenced:
+hands-on AWS deployment
+Explicit mismatches: None
+Key Strengths
+Clear evidence of production Python API work using FastAPI.
+Strong database evidence with PostgreSQL schema design and SQL optimization.
+Direct support for automated API testing via pytest integration tests.
+Nice-to-have coverage is strong, with both Docker and Redis evidenced.
+Gaps and Missing Evidence
+Hands-on AWS deployment is not evidenced in the supplied resume.
+This is especially important because the hiring manager marked AWS deployment as non-negotiable.
+However, under the stated rules, the non-negotiable override requires explicit evidence that the candidate does not meet the requirement. Here, the resume is silent, so this is missing evidence, not an explicit mismatch.
+Recommendation
+
+Clarify missing requirements or conduct an initial screening.
+
+Rationale:
+
+The candidate scores 80.0/100, which is strong on demonstrated evidence.
+However, the rule for “Advance to interview” at >=80 also requires every must-have to be directly supported, and AWS deployment is not evidenced.
+The non-negotiable override does not apply because the resume does not explicitly establish failure; it only lacks evidence.
+Recommendation is therefore to verify AWS deployment experience before advancing. All recommendations require human review.
+Three Verification/Interview Questions
+Have you used AWS for hands-on deployment? If yes, describe an example, including the services you used and what you personally configured or deployed.
+Have you deployed a Python API to a cloud environment? If yes, describe the deployment workflow, infrastructure, and your responsibilities.
+Have you managed production operational concerns for an API? If yes, describe an example covering testing, rollout, monitoring, or rollback.

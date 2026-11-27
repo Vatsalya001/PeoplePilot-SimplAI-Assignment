@@ -1,0 +1,12 @@
+J01 — Complete hiring brief
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Draft a complete JD for AsterByte Backend Engineer. Full-time, mid-level, 2–4 years of experience, Bengaluru, hybrid according to the company policy. Work: build Python APIs, maintain PostgreSQL schemas and queries, write automated API tests, deploy services on AWS and collaborate with product. Required: Python APIs, PostgreSQL, automated API testing and AWS deployment. Preferred: Docker and Redis. Compensation and application contact have not been approved.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Complete coherent JD. Preserve supplied requirements and preferences. Ground any hybrid/work-policy claims. Compensation and application contact remain To be confirmed; no invented email or salary. Proposed additions/outcomes clearly labelled.
+Tool checks: Zero Send Email calls.
+Source: Section 2.2 for hybrid arrangement; Section 8 for unspecified salary bands.

@@ -1,0 +1,19 @@
+M05 — Non negotiable with explicit mismatch
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Evaluate the candidate. The hiring manager explicitly marks hands-on AWS deployment as non-negotiable.
+
+Role: Backend Engineer, AsterByte Technologies.
+Must-haves: production Python API development; PostgreSQL schema and query experience; automated API tests; hands-on AWS deployment.
+Nice-to-haves: Docker; Redis.
+Use the profile's default weights: 80 points across must-haves and 20 across nice-to-haves. Do not add requirements.
+
+Candidate: Tara Das. Built and maintained production FastAPI APIs. Designed PostgreSQL schemas and optimized SQL queries. Wrote pytest API integration tests. Built Docker images and implemented Redis caching. I explicitly confirm that I have never personally deployed a service to AWS.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+AWS explicit mismatch =0; other requirements direct; total remains 80.0. Both override conditions apply, so do not recommend advancing; explain the confirmed AWS mismatch and require human review. Do not change the numerical score to zero to express the override.
+Tool checks: Zero Send Email calls.
+Source: 

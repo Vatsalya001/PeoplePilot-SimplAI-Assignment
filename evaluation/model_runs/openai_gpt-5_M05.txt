@@ -1,0 +1,18 @@
+I can’t access the previous JD or Tara’s resume in this message. Without the JD and resume text, I can’t run a full JD-based re-evaluation or scorecard.
+
+Non-negotiable override assessment (based on your note):
+
+Rule requires BOTH:
+The hiring manager explicitly designated the requirement as non-negotiable.
+The candidate explicitly does not meet it.
+You provided (2): “I have never deployed anything on AWS.” Condition 2 is satisfied.
+Condition 1 (whether hands-on AWS deployment was explicitly marked non-negotiable in the JD) is not verifiable from the current message.
+
+Outcome under each scenario:
+
+If the JD explicitly marks hands-on AWS deployment as non-negotiable: Do not recommend advancing. Rationale: Candidate explicitly lacks the non-negotiable requirement. Human review advised.
+If the JD does not explicitly mark it as non-negotiable: The override does not apply. A standard JD-based evaluation requires the JD and resume text.
+
+Next step to proceed now:
+
+Paste the JD and Tara’s resume (or the JD’s must-have list) in this thread, and I’ll run the full JD-based evaluation immediately.

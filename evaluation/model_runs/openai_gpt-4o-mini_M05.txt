@@ -1,0 +1,31 @@
+Candidate and Role Overview
+Candidate: Tara Das
+Role: Backend Engineer
+JD Requirements: Must-haves and nice-to-haves as specified.
+Matrix:
+Requirement	Must-have/Nice-to-have	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20	Built and maintained production FastAPI APIs	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20	Designed PostgreSQL schemas and optimized SQL	Directly supported	1.0	20.00
+Automated API tests	Must-have	20	Wrote pytest API integration tests	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have	20	Explicitly stated no AWS deployment experience	Explicit mismatch	0.0	0.00
+Docker	Nice-to-have	10	Built Docker images	Directly supported	1.0	10.00
+Redis	Nice-to-have	10	Implemented Redis caching	Directly supported	1.0	10.00
+Overall Fit Score
+Total Contribution: 20.00 + 20.00 + 20.00 + 0.00 + 10.00 + 10.00 = 80.00
+Final Score: 80.0/100
+Must-Have Coverage
+Directly supported: 3 (Production Python API development, PostgreSQL schema and query experience, Automated API tests)
+Partially supported: 0
+Not evidenced: 1 (Hands-on AWS deployment)
+Explicit mismatches: 1 (Candidate has confirmed no experience with AWS deployment)
+Key Strengths
+Strong capabilities in Python API development, PostgreSQL management, and automated testing.
+Experience with Docker and Redis indicates a familiarity with modern development practices.
+Gaps and Missing Evidence
+Explicit mismatch with the hands-on AWS deployment requirement, which is non-negotiable as per the hiring manager's clarification.
+Recommendation
+Do not recommend advancing the candidate due to the confirmed lack of experience in AWS deployment, a non-negotiable requirement. This gap should be reviewed by the hiring manager for final considerations.
+Three Verification/Interview Questions
+Can you elaborate on your experience with FastAPI and how you've ensured its reliability in production?
+What strategies do you typically employ to optimize SQL queries effectively?
+Given your experience with Docker, what would be your approach to containerizing a new application?

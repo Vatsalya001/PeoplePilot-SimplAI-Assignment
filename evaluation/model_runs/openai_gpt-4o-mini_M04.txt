@@ -1,0 +1,31 @@
+Candidate and Role Overview
+Candidate: Tara Das
+Role: Backend Engineer
+JD Requirements: Must-haves and nice-to-haves as specified.
+Matrix:
+Requirement	Must-have/Nice-to-have	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20	Built and maintained production FastAPI APIs	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20	Designed PostgreSQL schemas and optimized SQL	Directly supported	1.0	20.00
+Automated API tests	Must-have	20	Wrote pytest API integration tests	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have	20	No evidence	Not evidenced	0.0	0.00
+Docker	Nice-to-have	10	Built Docker images	Directly supported	1.0	10.00
+Redis	Nice-to-have	10	Implemented Redis caching	Directly supported	1.0	10.00
+Overall Fit Score
+Total Contribution: 20.00 + 20.00 + 20.00 + 0.00 + 10.00 + 10.00 = 80.00
+Final Score: 80.0/100
+Must-Have Coverage
+Directly supported: 3 (Production Python API development, PostgreSQL schema and query experience, Automated API tests)
+Partially supported: 0
+Not evidenced: 1 (Hands-on AWS deployment)
+Explicit mismatches: 0
+Key Strengths
+Strong evidence of relevant technical skills in Python API development, PostgreSQL, and automated testing.
+Experience with Docker and Redis implementation indicates familiarity with modern development practices.
+Gaps and Missing Evidence
+No evidence of AWS deployment, which is explicitly designated as non-negotiable by the hiring manager.
+Recommendation
+Do not recommend advancing the candidate due to the lack of evidence in the hands-on AWS deployment requirement, which is non-negotiable. This gap should be reviewed by the hiring manager for final considerations.
+Three Verification/Interview Questions
+Have you applied AWS services in your previous projects? If yes, could you describe the implementation process?
+Can you provide an example of how you optimized SQL queries for performance?
+How do you approach writing and managing automated tests for APIs?

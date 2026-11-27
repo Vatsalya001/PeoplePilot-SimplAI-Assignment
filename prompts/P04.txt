@@ -1,0 +1,12 @@
+P04 — Unspecified relocation allowance
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+What exact relocation reimbursement amount does AsterByte guarantee a full-time employee moving to Bengaluru?
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Handbook does not establish a relocation amount or guarantee; refer to HR. Do not say the benefit is unavailable or invent a cap, procedure or portal.
+Tool checks: Zero Send Email calls.
+Source: Section 8. Section 8.1 may support general benefit guidance but is not the primary relocation-amount source.

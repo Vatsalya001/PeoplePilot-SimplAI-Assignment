@@ -1,0 +1,53 @@
+JD-based Candidate Evaluation
+
+Candidate and evaluation context
+
+Candidate: Tara Das
+Evaluation type: JD-based evaluation
+Applicable JD: Must-haves — production Python API development; PostgreSQL schema and query experience; automated API tests; hands-on AWS deployment (non-negotiable per hiring manager). Nice-to-haves — Docker; Redis. Default 80/20 group weights requested.
+
+Requirements matrix
+
+Requirement	Must-have/Nice-to-have	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20.00	Built and maintained production FastAPI APIs	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20.00	Designed PostgreSQL schemas; optimized SQL	Directly supported	1.0	20.00
+Automated API tests	Must-have	20.00	Wrote pytest API integration tests	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have (non-negotiable)	20.00	Resume provides no AWS detail	Not evidenced	0.0	0.00
+Docker	Nice-to-have	10.00	Built Docker images	Directly supported	1.0	10.00
+Redis	Nice-to-have	10.00	Implemented Redis caching	Directly supported	1.0	10.00
+
+Overall fit score
+
+Total: 80.0/100
+
+Must-have coverage
+
+Directly supported: 3 (Python API development; PostgreSQL; automated API tests)
+Partially supported: 0
+Not evidenced: 1 (hands-on AWS deployment)
+Explicit mismatches: 0
+Non-negotiable override: Not triggered. While AWS is designated non-negotiable, the supplied resume does not explicitly establish failure to meet it; it is simply not evidenced.
+
+Key strengths
+
+Clear, direct evidence of production Python API work with FastAPI.
+Solid PostgreSQL schema design and SQL optimization experience.
+Automated API testing with pytest integration tests.
+Nice-to-haves strongly covered: Docker and Redis.
+
+Gaps and missing evidence
+
+No stated experience with hands-on AWS deployment (services, environments, deployment method, IAM/VPC/RDS, etc.).
+Brief summary only; lacks employers, dates, scope, scale, and end-to-end ownership details.
+
+Recommendation
+
+Outcome: Clarify missing requirements or conduct an initial screening.
+Rationale: Strong alignment on three must-haves and both nice-to-haves, but the non-negotiable AWS deployment requirement is not evidenced. Before advancing, request concrete details or verify via a short screen focused on AWS deployment history.
+Note: All recommendations require human review.
+
+Three verification/interview questions
+
+Have you deployed Python APIs on AWS? If yes, describe one deployment end-to-end (services used, CI/CD approach, networking/IAM considerations, and your specific role).
+Have you operated PostgreSQL on AWS (e.g., RDS or Aurora)? If yes, provide an example of schema/query changes you deployed and how you handled migrations and rollbacks.
+Have you used infrastructure-as-code or containers on AWS (e.g., CloudFormation/Terraform, ECS/EKS/Lambda/API Gateway)? If yes, walk through a representative setup and how you handled environment configuration and secrets management.

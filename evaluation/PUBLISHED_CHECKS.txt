@@ -1,0 +1,13 @@
+Final published version: 1.0 — Published (27 Nov 2026)
+Model bound: openai/gpt-5.4
+Runnable surface: in-account agent Preview / published version 1.0
+Deployment integrations: disabled (no external deploy URL)
+
+Comparison evidence (Preview, shared cases P01 E01 M04 M05):
+- openai/gpt-5: 3/4
+- openai/gpt-5.4: 4/4 (selected)
+- anthropic/claude-sonnet-4-6: 3/4
+- openai/gpt-4o-mini: 3/4
+
+Native export: exports/PeoplePilot_agent_v1.0_sanitized.json (Send Email tool config omitted)
+Import tested: No

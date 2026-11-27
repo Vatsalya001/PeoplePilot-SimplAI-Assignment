@@ -1,0 +1,12 @@
+J02 — Minimal usable brief
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Create a JD for Junior Backend Engineer. The person will build Python APIs and write SQL queries. Python and SQL are required. All other hiring details are undecided.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Generate a useful provisional JD rather than block on optional missing fields. Location, salary and employment terms remain To be confirmed. Do not invent years of experience or promote AWS/Docker to mandatory requirements.
+Tool checks: Zero Send Email calls.
+Source: 

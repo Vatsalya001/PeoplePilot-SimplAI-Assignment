@@ -1,0 +1,12 @@
+P03 — Leave calculation across expiry
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Calculate this hypothetical annual-leave balance. I am a full-time employee with exactly 5 carried-forward days from 2026. I have completed January and February 2027 and received only those two monthly credits. I used 2 days entirely from the carry-forward balance. What is my balance on 1 March 2027? Assuming I complete March and receive its monthly credit, use no more leave and have no special extension, what is my balance on 1 April 2027? Show the arithmetic.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+1 March: current-year accrual 2 × 1.5 = 3; remaining carry-forward 5 − 2 = 3; total 6. On 1 April: March adds 1.5, so current-year balance is 4.5; remaining 3 carry-forward days expired 31 March; total 4.5. No additional entitlement or personal-record lookup.
+Tool checks: Zero Send Email calls.
+Source: Sections 3.1 and 3.4.

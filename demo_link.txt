@@ -1,0 +1,4 @@
+Runnable agent (login required): https://app.simplai.ai/dashboard/agent/6b0828d5f178fc411b13424b?pageType=edit
+Published version: 1.0 (Status: Published)
+Access: SimplAI assignment account credentials supplied privately to the reviewer
+Deployment/share integrations: disabled in this workspace; use in-account Preview / published version

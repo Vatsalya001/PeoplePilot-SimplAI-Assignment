@@ -1,0 +1,22 @@
+Let me search the policy knowledge base to answer this accurately.The policy is clear and directly addresses all three questions. Here is the answer:
+
+Annual Leave — Full-Time Employees at AsterByte Technologies
+Answer
+Question	Policy Answer
+How many days per calendar year?	18 paid annual leave days
+How are they credited?	1.5 days per completed month (12 months × 1.5 = 18 days)
+Are all 18 days credited on 1 January?	No. Days accrue monthly as each month is completed.
+Conditions and Exceptions
+Monthly accrual model: Leave is earned as each calendar month is completed — an employee does not have access to the full 18 days on 1 January.
+Manager approval required: Annual leave must be approved by the employee's manager. Requests should normally be submitted at least five working days in advance.
+Carry-forward: Up to 5 unused annual leave days may carry forward to the following year, expiring on 31 March of that year.
+Probation / joining-year specifics: The policy notes that probation-specific leave arrangements exist; employees should consult HR for details applicable to their situation.
+Source
+
+"Employees receive 18 paid annual leave days per calendar year, credited at 1.5 days per completed month. Twelve completed monthly credits total 18 days. The annual entitlement does not mean that all 18 days are credited at the beginning of the year."
+
+Document: AsterByte HR Policy Handbook (AsterByte_HR_Policy_Handbook_updated.docx) Section: 3.1 — Annual Leave Entitlement and Accrual
+
+Next Step
+
+If you need a calculation of an individual employee's accrued balance based on their joining date or leave taken, provide those details and I can work through it using the 1.5 days/completed month formula.

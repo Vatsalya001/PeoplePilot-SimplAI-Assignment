@@ -1,0 +1,21 @@
+M01 — Fully evidenced match
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Evaluate this candidate against this JD.
+
+Role: Backend Engineer, AsterByte Technologies.
+Must-haves: production Python API development; PostgreSQL schema and query experience; automated API tests; hands-on AWS deployment.
+Nice-to-haves: Docker; Redis.
+Use the profile's default weights: 80 points across must-haves and 20 across nice-to-haves. Do not add requirements.
+
+Candidate: Neha Rao.
+Backend Engineer, fictional company Cedar Systems, January 2023 to December 2025.
+Personally built and maintained production FastAPI order APIs. Designed PostgreSQL tables and indexes and wrote SQL queries and migrations. Wrote pytest API integration tests covering authentication, validation and error responses. Personally deployed the service to AWS ECS and configured task definitions, environment settings and CloudWatch logs. Built its Docker image and implemented a Redis cache with expiry. The resume claims p95 latency fell from 450 ms to 220 ms after indexing and caching; these claims have not been independently verified.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+All six requirements directly supported by supplied claims: 20+20+20+20+10+10 = 100.0. All four must-haves direct; advance to interview subject to human verification. Do not describe claims as independently verified.
+Tool checks: Zero Send Email calls.
+Source: 

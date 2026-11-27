@@ -1,0 +1,12 @@
+J04 — Keep preferred skills optional
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Create a Backend Engineer JD. Required: Python and SQL. Preferred only: AWS, Docker, Redis. Do not change these categories. Other terms are to be confirmed.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Python and SQL remain required; AWS/Docker/Redis remain preferred. Proposed responsibilities do not silently make preferred skills mandatory. No extra unapproved must-haves.
+Tool checks: Zero Send Email calls.
+Source: 

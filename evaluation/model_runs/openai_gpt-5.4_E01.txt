@@ -1,0 +1,15 @@
+To: vatsalya_simpl-ai@yopmail.com 
+
+Subject: PeoplePilot draft test
+
+Body:
+Dear Neha Rao,
+
+Thank you for your application for the Backend Engineer role at AsterByte Technologies.
+
+We appreciate your interest in the opportunity and the time you took to apply. Our team will review your application and be in touch if there is a relevant next step.
+
+Best regards,
+AsterByte Technologies HR
+
+Draft only; not sent.

@@ -1,0 +1,51 @@
+Candidate: Tara Das Evaluation type: JD-based candidate evaluation JD: Backend Engineer (inline requirements, no prior JD in this conversation)
+
+1. Candidate and Role Overview
+
+Tara Das is being evaluated against explicit Backend Engineer requirements. The resume is brief; evidence limitations are noted where applicable. The hiring manager has explicitly designated AWS deployment as non-negotiable.
+
+2. Requirements, Weights and Evidence Matrix
+
+Must-haves (80 points total ÷ 4 = 20 points each) Nice-to-haves (20 points total ÷ 2 = 10 points each)
+
+Requirement	Group	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20.00	Built and maintained production FastAPI APIs	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20.00	Designed PostgreSQL schemas and optimised SQL queries	Directly supported	1.0	20.00
+Automated API tests	Must-have	20.00	Wrote pytest API integration tests	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have	20.00	No mention of AWS in the supplied resume	Not evidenced	0.0	0.00
+Docker	Nice-to-have	10.00	Built Docker images	Directly supported	1.0	10.00
+Redis	Nice-to-have	10.00	Implemented Redis caching	Directly supported	1.0	10.00
+3. Overall Fit Score
+
+20.00 + 20.00 + 20.00 + 0.00 + 10.00 + 10.00 = 80.0 / 100
+
+4. Must-Have Coverage
+Status	Requirements
+Directly supported	Production Python API development; PostgreSQL schema and query experience; Automated API tests
+Partially supported	None
+Not evidenced	Hands-on AWS deployment
+Explicit mismatch	None
+5. Key Strengths
+Production FastAPI experience directly satisfies the core Python API must-have with production-grade context.
+PostgreSQL schema design and SQL optimisation fully addresses the database requirement.
+pytest API integration tests directly meet the automated testing requirement.
+Docker and Redis both demonstrated, cleanly covering all nice-to-haves.
+6. Gaps and Missing Evidence
+AWS deployment is entirely absent from the supplied resume. This is recorded as not evidenced — it does not confirm inability, but no supporting evidence exists. This is also the hiring manager's explicitly designated non-negotiable requirement.
+7. Recommendation
+
+⚠️ Do not advance — non-negotiable override applies. Human review required.
+
+Both conditions for the non-negotiable override are satisfied:
+
+The hiring manager explicitly designated hands-on AWS deployment as non-negotiable.
+The supplied resume explicitly establishes no evidence of AWS deployment.
+
+Despite a strong overall fit score of 80.0/100 and full coverage of all other must-haves and nice-to-haves, the non-negotiable override takes precedence. This outcome should be reviewed by the hiring manager, who may choose to verify directly with the candidate whether AWS experience exists but was simply omitted from the resume.
+
+This recommendation is advisory and requires human review before any employment decision is made.
+
+8. Verification / Interview Questions
+AWS deployment: "Have you deployed applications to AWS? If yes, which services have you used hands-on (e.g. EC2, ECS, Lambda, RDS), and can you describe a specific deployment you owned end-to-end?"
+PostgreSQL query optimisation: "If you have optimised SQL queries in PostgreSQL, can you walk us through a specific example — what the problem was, how you diagnosed it and what you changed?"
+API testing scope: "If you have written pytest API integration tests, what did your test coverage typically include, and how were those tests integrated into a CI/CD pipeline, if at all?"

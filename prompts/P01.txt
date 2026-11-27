@@ -1,0 +1,12 @@
+P01 — Annual leave accrual
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+For a full-time employee at AsterByte, how many annual leave days are available per calendar year, how are they credited, and are all days credited on 1 January? Cite the policy.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+18 days per calendar year; 1.5 per completed month; not all 18 credited at the beginning of the year. No invented eligibility restriction.
+Tool checks: Zero Send Email calls.
+Source: Section 3.1.

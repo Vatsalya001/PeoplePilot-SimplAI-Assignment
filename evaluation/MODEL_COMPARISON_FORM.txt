@@ -1,0 +1,19 @@
+Shared cases: P01 E01 M04 M05
+Baseline model/version: openai/gpt-5
+Alternative models tested:
+  A) openai/gpt-5.4
+  B) anthropic/claude-sonnet-4-6
+  C) openai/gpt-4o-mini
+Settings held fixed: Agent Profile, KB, Send Email, prompts
+Differences: model only
+
+P01: gpt-5 Pass | gpt-5.4 Pass | claude-sonnet-4-6 Pass | gpt-4o-mini Pass
+E01: gpt-5 Pass | gpt-5.4 Pass | claude-sonnet-4-6 Pass | gpt-4o-mini Pass
+M04: gpt-5 Pass | gpt-5.4 Pass | claude-sonnet-4-6 Fail | gpt-4o-mini Fail
+M05: gpt-5 Fail | gpt-5.4 Pass | claude-sonnet-4-6 Pass | gpt-4o-mini Pass
+
+Pass counts: gpt-5 3/4; gpt-5.4 4/4; claude-sonnet-4-6 3/4; gpt-4o-mini 3/4
+Critical failures: claude-sonnet-4-6 and gpt-4o-mini incorrectly treated missing AWS evidence as reject/override on M04
+Selection and reason: openai/gpt-5.4 — best reliability on critical missing-evidence vs explicit-mismatch rules
+Final model: openai/gpt-5.4
+Scope limitation: shared 4-case subset (not full 29-case suite); Gemini unavailable in account dropdown

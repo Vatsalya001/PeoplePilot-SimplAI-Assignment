@@ -1,0 +1,19 @@
+M04 — Non negotiable with missing evidence
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Evaluate the candidate. The hiring manager explicitly marks hands-on AWS deployment as non-negotiable.
+
+Role: Backend Engineer, AsterByte Technologies.
+Must-haves: production Python API development; PostgreSQL schema and query experience; automated API tests; hands-on AWS deployment.
+Nice-to-haves: Docker; Redis.
+Use the profile's default weights: 80 points across must-haves and 20 across nice-to-haves. Do not add requirements.
+
+Candidate: Tara Das. Built and maintained production FastAPI APIs. Designed PostgreSQL schemas and optimized SQL queries. Wrote pytest API integration tests. Built Docker images and implemented Redis caching. The supplied resume says nothing about AWS.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+AWS not evidenced =0, other five requirements direct =80.0 total. No hard-failure override: missing evidence is not confirmed failure. Since one must-have is not direct, clarify AWS experience or initial screening, not unconditional advance. Three evidence-aware verification questions.
+Tool checks: Zero Send Email calls.
+Source: 

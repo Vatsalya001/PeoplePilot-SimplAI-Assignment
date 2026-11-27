@@ -1,0 +1,16 @@
+PeoplePilot evaluation summary — 27 November 2026 (Asia/Calcutta)
+Account: vatsalya_simpl-ai@yopmail.com
+Agent ID: 6b0828d5f178fc411b13424b
+Final model selected: openai/gpt-5.4
+
+MODELS COMPARED IN SIMPLAI (live Preview)
+1. openai/gpt-5 — 3/4 (M05 Fail)
+2. openai/gpt-5.4 — 4/4 BEST
+3. anthropic/claude-sonnet-4-6 — 3/4 (M04 Fail: false override)
+4. openai/gpt-4o-mini — 3/4 (M04 Fail: reject on missing evidence)
+See evaluation/MODEL_COMPARISON_REPORT.txt and evaluation/model_runs/
+
+Shared live cases: P01, E01, M04, M05
+Best model: openai/gpt-5.4
+
+Critical failures observed in comparison sample: false non-negotiable override / over-reject on M04 for Claude Sonnet 4.6 and gpt-4o-mini; gpt-5 M05 context-reuse miss.

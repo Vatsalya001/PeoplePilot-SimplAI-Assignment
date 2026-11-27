@@ -1,0 +1,12 @@
+P02 — Manager approval versus policy exception
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+I am a full-time AsterByte employee. My manager verbally said I can work remotely every day permanently. Is that enough to override the normal office attendance rule?
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Three office days weekly. Arrangement changes require manager approval, but an exception to policy also requires written HR approval. Verbal manager approval alone is insufficient.
+Tool checks: Zero Send Email calls.
+Source: Sections 2.2 and 7.2.

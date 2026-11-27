@@ -1,0 +1,12 @@
+M03 — JD missing in a fresh conversation
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Please score this candidate against the JD. Candidate: Riya Sen. Built FastAPI APIs and designed PostgreSQL schemas.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Request the JD before calculating role-fit score. Do not invent a prior JD. Accept the short resume as usable input; do not demand it again.
+Tool checks: Zero Send Email calls.
+Source: 

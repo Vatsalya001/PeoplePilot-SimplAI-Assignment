@@ -1,0 +1,60 @@
+Candidate and Role Overview
+
+Candidate: Tara Das
+Evaluation type: JD-based evaluation
+Applicable JD: Same JD as above
+
+Must-haves: production Python API development; PostgreSQL schema and query experience; automated API tests; hands-on AWS deployment
+Nice-to-haves: Docker; Redis
+Hiring-manager-designated non-negotiable: hands-on AWS deployment
+
+Using the same default weighting:
+
+Must-haves: 80 points total / 4 = 20.00 each
+Nice-to-haves: 20 points total / 2 = 10.00 each
+Matrix
+Requirement	Must-have/Nice-to-have	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20.00	Built and maintained production FastAPI APIs	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20.00	Designed PostgreSQL schemas and optimized SQL	Directly supported	1.0	20.00
+Automated API tests	Must-have	20.00	Wrote pytest API integration tests	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have	20.00	Candidate explicitly clarified: “I have never deployed anything on AWS.”	Explicit mismatch	0.0	0.00
+Docker	Nice-to-have	10.00	Built Docker images	Directly supported	1.0	10.00
+Redis	Nice-to-have	10.00	Implemented Redis caching	Directly supported	1.0	10.00
+Overall Fit Score
+
+20.00 + 20.00 + 20.00 + 0.00 + 10.00 + 10.00 = 80.00
+Final score: 80.0/100
+
+Must-Have Coverage
+Directly supported:
+production Python API development
+PostgreSQL schema and query experience
+automated API tests
+Partially supported: None
+Not evidenced: None
+Explicit mismatches:
+hands-on AWS deployment
+Key Strengths
+Strong direct evidence for production Python API development.
+Clear support for PostgreSQL schema design and SQL optimization.
+Directly supported experience with automated API integration testing.
+Both nice-to-haves, Docker and Redis, are evidenced.
+Gaps and Missing Evidence
+Hands-on AWS deployment is an explicit mismatch, based on Tara’s clarification: “I have never deployed anything on AWS.”
+This is not a missing-evidence case; it affirmatively conflicts with the requirement.
+Recommendation
+
+Do not recommend advancing; explain the mismatch for human review.
+
+Rationale:
+
+The hiring manager explicitly designated hands-on AWS deployment as non-negotiable.
+Tara explicitly stated she has never deployed anything on AWS.
+Both conditions for the non-negotiable override are satisfied:
+The requirement was explicitly designated non-negotiable.
+The supplied evidence explicitly establishes the candidate does not meet it.
+Although the overall fit score remains 80.0/100, the override takes precedence. This is an advisory recommendation requiring human review, not a final employment decision.
+Three Verification/Interview Questions
+Have you used any non-AWS cloud platform for hands-on API deployment? If yes, describe an example and your responsibilities.
+Have you worked with infrastructure, deployment pipelines, or containerized releases outside AWS? If yes, describe an example.
+Have you had any exposure to AWS in non-deployment contexts? If yes, describe what you used and what you personally did.

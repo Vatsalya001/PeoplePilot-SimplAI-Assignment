@@ -1,0 +1,12 @@
+R04 — Overlapping employment
+Start a fresh chat. Keep all messages for this case in that chat.
+
+COPY ONLY MESSAGE TEXT INTO PEOPLEPILOT
+
+MESSAGE 1
+Evaluate this resume generally. Candidate: Dev Shah. Role A: backend engineer, January 2023 through December 2024, inclusive. Role B: part-time developer, July 2024 through June 2025, inclusive. Built Flask APIs and wrote SQL queries in both roles. There are no other dates or quantified outcomes. If reporting experience length, count unique calendar months and explain overlap.
+
+DO NOT PASTE THE FOLLOWING ANSWER KEY
+Jan 2023–Jun 2025 covers 30 unique calendar months, not 36. Overlap Jul–Dec 2024 is six months. Do not equate overlapping part-time work to extra elapsed years or infer hours. Score supplied evidence only.
+Tool checks: Zero Send Email calls.
+Source: 

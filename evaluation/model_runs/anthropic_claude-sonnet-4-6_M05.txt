@@ -1,0 +1,57 @@
+Candidate: Tara Das (re-evaluation with updated evidence) Evaluation type: JD-based candidate evaluation JD: Same Backend Engineer requirements as previous evaluation Change: Tara has explicitly stated she has never deployed anything on AWS. All other resume evidence is unchanged.
+
+1. Candidate and Role Overview
+
+This is a re-evaluation of Tara Das against the same Backend Engineer JD. The only change from the previous evaluation is that the AWS gap is now an explicit mismatch — Tara's own statement affirmatively confirms she has not deployed on AWS. The hiring manager has explicitly designated AWS deployment as non-negotiable.
+
+2. Requirements, Weights and Evidence Matrix
+
+Must-haves (80 points total ÷ 4 = 20 points each) Nice-to-haves (20 points total ÷ 2 = 10 points each)
+
+Requirement	Group	Weight	Resume Evidence	Evidence Status	Match Value	Weighted Contribution
+Production Python API development	Must-have	20.00	Built and maintained production FastAPI APIs	Directly supported	1.0	20.00
+PostgreSQL schema and query experience	Must-have	20.00	Designed PostgreSQL schemas and optimised SQL queries	Directly supported	1.0	20.00
+Automated API tests	Must-have	20.00	Wrote pytest API integration tests	Directly supported	1.0	20.00
+Hands-on AWS deployment	Must-have	20.00	Candidate explicitly states: "I have never deployed anything on AWS."	Explicit mismatch	0.0	0.00
+Docker	Nice-to-have	10.00	Built Docker images	Directly supported	1.0	10.00
+Redis	Nice-to-have	10.00	Implemented Redis caching	Directly supported	1.0	10.00
+3. Overall Fit Score
+
+20.00 + 20.00 + 20.00 + 0.00 + 10.00 + 10.00 = 80.0 / 100
+
+4. Must-Have Coverage
+Status	Requirements
+Directly supported	Production Python API development; PostgreSQL schema and query experience; Automated API tests
+Partially supported	None
+Not evidenced	None
+Explicit mismatch	Hands-on AWS deployment
+5. Key Strengths
+
+Unchanged from prior evaluation:
+
+Production FastAPI experience directly satisfies the core Python API must-have.
+PostgreSQL schema design and SQL optimisation fully addresses the database requirement.
+pytest API integration tests directly meet the automated testing requirement.
+Docker and Redis both demonstrated, fully covering all nice-to-haves.
+6. Gaps and Missing Evidence
+AWS deployment is now an explicit mismatch. Unlike the previous evaluation where absence of evidence left open the possibility that experience existed but was omitted, Tara's direct statement removes that ambiguity entirely. She has confirmed she has never deployed on AWS.
+7. Recommendation
+
+⚠️ Do not advance — non-negotiable override applies. Human review required.
+
+Both conditions for the non-negotiable override are satisfied:
+
+The hiring manager explicitly designated hands-on AWS deployment as non-negotiable.
+Tara's own statement explicitly establishes she does not meet this requirement — this is now an explicit mismatch, not merely an absence of evidence.
+
+Comparison with prior evaluation: The fit score is unchanged at 80.0/100, as the match value for AWS was already 0.0. However, the nature of the gap has materially changed from not evidenced to explicit mismatch, which further reinforces the non-negotiable override. The hiring manager should determine whether AWS experience is truly non-negotiable, or whether a candidate of Tara's strength in all other areas could be considered with an AWS onboarding plan.
+
+This recommendation is advisory and requires human review before any employment decision is made.
+
+8. Verification / Interview Questions
+
+Given the explicit mismatch on AWS, the third question from the previous evaluation is no longer meaningful as a verification question. Updated questions:
+
+Cloud exposure (adjacent): "Have you worked with any other cloud platforms such as GCP or Azure? If yes, describe a deployment you owned and the services you used."
+PostgreSQL query optimisation: "If you have optimised SQL queries in PostgreSQL, can you walk us through a specific example — what the problem was, how you diagnosed it and what you changed?"
+API testing scope: "If you have written pytest API integration tests, what did your test coverage typically include, and how were those tests integrated into a CI/CD pipeline, if at all?"
