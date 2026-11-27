@@ -15,7 +15,7 @@ PeoplePilot is an HR assistant built entirely on SimplAI for AsterByte Technolog
 - Agent editor: https://app.simplai.ai/dashboard/agent/6b0828d5f178fc411b13424b?pageType=edit
 - Published version: **1.0**
 - Model: **openai/gpt-5.4**
-- Assignment account login is provided **privately** (not in this repository)
+- Assignment account login must be sent **privately to the reviewer** (never commit passwords)
 
 Deployment integrations are disabled in this SimplAI workspace, so review is in-account.
 
